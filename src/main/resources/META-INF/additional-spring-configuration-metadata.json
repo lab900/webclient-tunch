@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "spring.shell.interactive.enabled",
+      "type": "java.lang.String",
+      "description": "Enables the interactive mode of the shell. Default is true"
+    }
+  ]
+}
